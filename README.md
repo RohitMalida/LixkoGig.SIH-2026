@@ -1,4 +1,4 @@
-# Likxo Gig — React Frontend
+# LikxoGig 
 
 ## Run in Cursor / VS Code
 
@@ -7,6 +7,4 @@
 3. Run:
    npm install
    npm run dev
-4. Open the localhost URL shown by Vite (usually http://localhost:5173/).
 
-This is a frontend-only React prototype based on the supplied screenshot.
